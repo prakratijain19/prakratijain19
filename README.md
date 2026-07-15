@@ -36,19 +36,45 @@
 
 ### 🌟 Main Projects
 
-<p align="center">
-  <a href="https://github.com/prakratijain19/GitLite-Studio">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=prakratijain19&repo=GitLite-Studio&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/prakratijain19/SignBridge">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=prakratijain19&repo=SignBridge&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/prakratijain19/gesture-based-OS-control">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=prakratijain19&repo=gesture-based-OS-control&theme=radical&hide_border=true" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🗃️ [GitLite-Studio](https://github.com/prakratijain19/GitLite-Studio)**
+<br>
+<img src="https://img.shields.io/github/languages/top/prakratijain19/GitLite-Studio?style=flat-square&color=6C63FF" />
+<img src="https://img.shields.io/github/last-commit/prakratijain19/GitLite-Studio?style=flat-square&color=6C63FF" />
+<br>
+A desktop version control system inspired by Git, built from scratch in Java with JavaFX — featuring file snapshotting, commit history, branching, diff visualization, and repository management.
+
+</td>
+<td width="50%" valign="top">
+
+**🤟 [SignBridge](https://github.com/prakratijain19/SignBridge)**
+<br>
+<img src="https://img.shields.io/github/languages/top/prakratijain19/SignBridge?style=flat-square&color=6C63FF" />
+<img src="https://img.shields.io/github/last-commit/prakratijain19/SignBridge?style=flat-square&color=6C63FF" />
+<br>
+AI-powered multilingual accessibility platform for Indian Sign Language communication.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🖐️ [gesture-based-OS-control](https://github.com/prakratijain19/gesture-based-OS-control)**
+<br>
+<img src="https://img.shields.io/github/languages/top/prakratijain19/gesture-based-OS-control?style=flat-square&color=6C63FF" />
+<img src="https://img.shields.io/github/last-commit/prakratijain19/gesture-based-OS-control?style=flat-square&color=6C63FF" />
+<br>
+Real-time gesture-based control of OS functions — cursor, volume, brightness, media, screenshots — using computer vision (MediaPipe + OpenCV).
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 | Project | Description | Tech |
 |---|---|---|
@@ -82,7 +108,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakratijain19&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=prakratijain19&theme=radical&hide_border=true" />
 </p>
 
 ---
