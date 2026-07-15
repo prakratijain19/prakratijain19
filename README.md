@@ -34,16 +34,43 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Main Projects
+
+<p align="center">
+  <a href="https://github.com/prakratijain19/GitLite-Studio">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=prakratijain19&repo=GitLite-Studio&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/prakratijain19/SignBridge">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=prakratijain19&repo=SignBridge&theme=radical&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/prakratijain19/gesture-based-OS-control">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=prakratijain19&repo=gesture-based-OS-control&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 | Project | Description | Tech |
 |---|---|---|
-| 🌪️ **[Disaster-Detection-System](https://github.com/prakratijain19/Disaster-Detection-System)** | Modular, scalable IoT-based natural disaster detection & alert system built on ESP32 with multiple sensors | `C++` `ESP32` `IoT` |
-| 🗣️ **[Genz-lang](https://github.com/prakratijain19/Genz-lang)** | A custom programming language & interpreter built for a Compiler Design course, with syntax inspired by Gen Z slang | `C` `Flex` `Bison` |
+| 🗃️ **[GitLite-Studio](https://github.com/prakratijain19/GitLite-Studio)** | A desktop version control system inspired by Git, built from scratch in Java with JavaFX — featuring file snapshotting, commit history, branching, diff visualization, and repository management | `Java` `JavaFX` |
+| 🤟 **[SignBridge](https://github.com/prakratijain19/SignBridge)** | AI-powered multilingual accessibility platform for Indian Sign Language communication | `TypeScript` `AI` |
+| 🖐️ **[gesture-based-OS-control](https://github.com/prakratijain19/gesture-based-OS-control)** | Real-time gesture-based control of OS functions — cursor, volume, brightness, media, screenshots — using computer vision | `Python` `MediaPipe` `OpenCV` |
+
+### 🧩 Other Projects
+
+<details>
+<summary>📄 View more repositories</summary>
+<br>
+
+| Project | Description | Tech |
+|---|---|---|
 | 🔐 **[biometric-security-system](https://github.com/prakratijain19/biometric-security-system)** | Flask web app for secure multi-modal authentication using real-time face recognition and voice verification with encrypted biometric data | `Python` `Flask` `OpenCV` |
 | 🎯 **[Auction_Simulator](https://github.com/prakratijain19/Auction_Simulator)** | Web-based auction simulator with AI opponents, game-theory-driven bid suggestions, post-auction payoff analysis, and optional Gemini API support | `HTML` `JS` `Game Theory` |
-| 🖐️ **[gesture-based-OS-control](https://github.com/prakratijain19/gesture-based-OS-control)** | Real-time gesture-based control of OS functions — cursor, volume, brightness, media, screenshots — using computer vision | `Python` `MediaPipe` `OpenCV` |
 | 🛒 **[ecomart](https://github.com/prakratijain19/ecomart)** | Web-based e-commerce project | `JavaScript` |
+| 🌪️ **[Disaster-Detection-System](https://github.com/prakratijain19/Disaster-Detection-System)** | Modular, scalable IoT-based natural disaster detection & alert system built on ESP32 with multiple sensors | `C++` `ESP32` `IoT` |
+| 🗣️ **[Genz-lang](https://github.com/prakratijain19/Genz-lang)** | A custom programming language & interpreter built for a Compiler Design course, with syntax inspired by Gen Z slang | `C` `Flex` `Bison` |
+
+</details>
 
 ---
 
