@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Student · Builder of IoT, AI & Systems Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=IoT+%2B+Embedded+Systems;Computer+Vision+%26+Biometrics;Compiler+Design+%26+Language+Building;Full-Stack+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Java+%26+Systems+Programming;C%2B%2B+%2B+Embedded+%2F+IoT;React+%2B+Full-Stack+Development;Python+%2B+Computer+Vision" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,flask,opencv,arduino,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,react,python,c,js,html,css,flask,opencv,git,github,vscode" />
 </p>
 
 ---
